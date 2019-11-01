@@ -1,0 +1,14 @@
+{
+  "name": "simplest-react-app-loader",
+  "version": "1.0.0",
+  "description": "a quick start for react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoelynZhou",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
